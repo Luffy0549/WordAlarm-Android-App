@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WordAlarm</string>
+    <string name="alarm">闹钟</string>
+    <string name="setting">设置</string>
+    <string name="wordselect">选择词库</string>
+    <string name="alarmselect">选择闹铃</string>
+    <string name="questionselect">选择题数</string>
+    <string name="aboutus">关于我们</string>
+    <string name="something">感谢使用我们的软件，如发现bug或有好的建议，请发送邮件至keyu100@21cn.com与我们联系。</string>
+    <string name="hint">请输入单个英文单词</string>
+    <string name="search">搜索</string>
+    <string name="back">返回</string>
+    <string name="comfirm">保存</string>
+    <string name="inputblank">输入不能为空</string>
+    <string name="worddatabase">设置词库</string>
+    <string name="cet">四六级词库</string>
+    <string name="toefl">托福词库</string>
+    <string name="alarmvoice">设置铃声</string>
+    <string name="marriage">梦中的婚礼</string>
+    <string name="air">天空之城</string>
+    <string name="original">故乡的原风景</string>
+    <string name="questionnumber">设置题数</string>
+    <string name="stopalarm">算了，自甘堕落</string>
+    <string name="toexercise">教练！我想做题</string>
+    <string name="appwidget_text">点击“下一个”刷新</string>
+    <string name="add_widget">Add widget</string>
+    <string name="goodjob">Good Job!</string>
+</resources>

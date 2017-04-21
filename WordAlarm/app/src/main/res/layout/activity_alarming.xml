@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_alarming"
+    android:gravity="center"
+    android:background="@drawable/right"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+    <Button
+        android:id="@+id/toexercise"
+        android:text="@string/toexercise"
+        android:layout_marginBottom="20dp"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:background="@drawable/button"
+        android:layout_gravity="center"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.03" />
+    <Button
+        android:layout_gravity="center"
+        android:id="@+id/exit"
+        android:textSize="20sp"
+        android:background="@drawable/button"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:textColor="#ffffff"
+        android:layout_marginBottom="20dp"
+        android:text="@string/stopalarm"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.03" />
+</LinearLayout>
